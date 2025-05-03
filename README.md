@@ -65,8 +65,7 @@ cv2.destroyAllWindows()
 
 ```
 
-#🚀 How to Run the Project
-
+# 🚀 How to Run the Project
 For macOS:
 Install OpenCV and run the Python code.
 Ensure that both cameras are available and connected.
